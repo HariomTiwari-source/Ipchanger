@@ -6,11 +6,11 @@ Using this tool, U can change your physical ip address 😉
 </p>
 
 ## Installing Process 👇
-```$ git clone https://github.com/LxaNce-Hacker/IP-Changer```<br>
-```$ apt-get install pv```<br>
+```$ git clone https://github.com/HariomTiwari-source/Ipchanger.git```<br>
+```$ apt-get install figlet```<br>
 ## Running Process 👇
-```$ cd IP-Changer```<br>
-```$ bash ipchanger.sh```<br>
+```$ cd IPchanger```<br>
+```$ bash Ipchanger.sh```<br>
 
 ## Workflow 👇
 <br>
