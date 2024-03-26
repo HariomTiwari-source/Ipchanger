@@ -1,13 +1,19 @@
-# Ipchanger 
+# IP-Changer
+Using this tool, U can change your physical ip address 😉
+### THIS TOOL IS CREATED FOR EDUCATIONAL PURPOSE, DON'T MISUSE IT.
+<p align="center">
+  <img src="Ipchanger.png">
+</p>
 
-# You can chnage your linux machine/ operating system by ip changer .
+## Installing Process 👇
+```$ git clone https://github.com/LxaNce-Hacker/IP-Changer```<br>
+```$ apt-get install pv```<br>
+## Running Process 👇
+```$ cd IP-Changer```<br>
+```$ bash ipchanger.sh```<br>
 
-#use following commands to use this tool
-
-#git clone https://github.com/HariomTiwari-source/Ipchanger.git.git
-
-#cd ipchanger
-
-#./ipchanger.sh
-
-
+## Workflow 👇
+<br>
+<p align="center">
+  <img src="IPchanger.png.png">
+</p>
