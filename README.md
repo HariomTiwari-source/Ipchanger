@@ -9,11 +9,11 @@ Using this tool, U can change your physical ip address 😉
 ```$ git clone https://github.com/HariomTiwari-source/Ipchanger.git```<br>
 ```$ apt-get install figlet```<br>
 ## Running Process 👇
-```$ cd IPchanger```<br>
+```$ cd Ipchanger```<br>
 ```$ bash Ipchanger.sh```<br>
 
 ## Workflow 👇
 <br>
 <p align="center">
-  <img src="IPchanger.png.png">
+  <img src="Ipchanger.png.png">
 </p>
