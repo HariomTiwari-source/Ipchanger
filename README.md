@@ -4,7 +4,7 @@
 
 #use following commands to use this tool
 
-#git clone .....git \n
+#git clone https://github.com/HariomTiwari-source/Ipchanger.git.git
 #cd ipchanger
 #./ipchanger.sh
 
