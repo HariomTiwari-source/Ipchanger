@@ -2,7 +2,9 @@
 
 # Define IP_CHANGER function
 IP_CHANGER() {
+    echo -e "\e[32m"
     sudo figlet "IP CHANGER"  # Fixed figlet command
+    echo -e "\e[0m"
     read -p "Do you want to enter the IP manually or automatically? (M/A): " input
     input=$(echo "$input" | tr '[:upper:]' '[:lower:]') # Convert input to lowercase
              
